@@ -219,7 +219,7 @@ void main()
 	while (true)
 	{
 		// Print the menu.
-		cout << "What do you want to do?" << endl;
+		cout << "\n\nWhat do you want to do?" << endl;
 		cout << "1. Add a marble" << endl;
 		cout << "2. Remove a marble" << endl;
 		cout << "3. Print bag contents" << endl;
