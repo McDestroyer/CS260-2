@@ -5,3 +5,5 @@ Removal:  Line 30
 Traversal: Line 50
 
 Sorry, made the traversal function correctly last and didn't have time to put it into the removal/finder. They work anyway, just slowly! :)
+
+Also, screw it, back to python. I'm not going to be able to do this in C++ in time.
